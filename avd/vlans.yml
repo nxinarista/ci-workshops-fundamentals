@@ -8,5 +8,5 @@ vlans:
     name: Thirty
   - 40:
     name: Forty
-  - 100:
-    name: Test vlan 100
+  - 200:
+    name: Test vlan 200
