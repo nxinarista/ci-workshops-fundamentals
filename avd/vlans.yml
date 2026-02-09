@@ -10,3 +10,5 @@ vlans:
     name: Forty name
   - 50:
     name: Fifty name
+  - 60:
+    name: Sisty name
